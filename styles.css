@@ -1,7 +1,7 @@
 body {
     margin: 0px;
 }
-.top-bar {
+#top-bar {
     list-style-type: none;
     margin: 0;
     padding: 0;
@@ -9,11 +9,11 @@ body {
     background-color: #333333;
   }
   
-.li-top-bar {
+#li-top-bar {
     float: left;
   }
   
-  .li-top-bar a {
+  #li-top-bar a {
     display: block;
     color: white;
     text-align: center;
@@ -21,6 +21,6 @@ body {
     text-decoration: none;
   }
   
-  .li-top-bar a:hover {
+  #li-top-bar a:hover {
     background-color: #111111;
   }
