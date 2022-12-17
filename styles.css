@@ -1,8 +1,13 @@
 body {
     margin: 0px;
-    background-color: red;
 }
-
+.top-bar {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #333333;
+  }
   
 #li-top-bar {
     float: left;
