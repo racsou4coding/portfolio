@@ -4,3 +4,8 @@ body {
 h1 {
     color: rgb(168, 67, 67);
 }
+#container {
+    background-color: green;
+    width: 200px;
+    height: 100px;
+}
