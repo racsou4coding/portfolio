@@ -2,7 +2,7 @@ body {
     margin: 0px;
     background-color: rebeccapurple;
 }
-#top-bar {
+.top-bar {
     list-style-type: none;
     margin: 0;
     padding: 0;
